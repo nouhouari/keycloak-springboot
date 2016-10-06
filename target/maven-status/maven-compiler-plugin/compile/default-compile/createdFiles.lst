@@ -1,0 +1,4 @@
+com/hin/springbootkeycloak/dto/Product.class
+com/hin/springbootkeycloak/Application.class
+com/hin/springbootkeycloak/controllers/Secured.class
+com/hin/springbootkeycloak/repo/ProductRepository.class
